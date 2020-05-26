@@ -7,7 +7,7 @@
     "deployLab":true,
     "phase": 3,
     "collegeName": "IITD",
-    "baseUrl": "http://html-iid.vlabs.ac.in",
+    "baseUrl": "http://html-iitd.vlabs.ac.in",
     "introduction": "Virtualization will allow the students to feel the environment which she/he will get in the real laboratories. In the case where real laboratories are not available or accessible to the students, it will cater students the online-version of the facilities available in the former. With the help of virtualization, the components which are unavailable due to factors like cost, geographic, demographic, etc. can be made virtually available so that students can get the second-best experience of learning how to use and handle the component/equipment. The main intention of virtualization is to enable students to learn the practical concepts more efficiently with the motive of enhancing their competency level.",
     "experiments": [
 	        {

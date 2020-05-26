@@ -21,7 +21,7 @@
 		{	
 	    "name": "Applying Attributes in HTML Tags",
             "short-name": "HTML-Tags",
-            "repo": ""http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/applying-attributes-in-html-tags-iitd",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/applying-attributes-in-html-tags-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true

@@ -17,71 +17,79 @@
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-        },
-	{
-	"name": "Applying Attributes in HTML Tags",
+	        },
+		{	
+	    "name": "Applying Attributes in HTML Tags",
             "short-name": "HTML-Tags",
             "repo": ""http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/applying-attributes-in-html-tags-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-	"name": "Inserting images through img tags",
+	        },
+		{
+	    "name": "Inserting images through img tags",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/inserting-images-through-img-tags-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-	"name": "Using Anchor Tags for Hyperlinks",
+	        },
+		{
+	    "name": "Using Anchor Tags for Hyperlinks",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/using-anchor-tags-for-hyperlinks-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
+	        },
+		{
 	    "name": "How marquee Tags work in HTML",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/marquee-tag-works-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-	"name": "Creating Tables in HTML",
+	        },
+		{
+	    "name": "Creating Tables in HTML",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/creating-tables-in-html-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-	"name": "Types of Lists in HTML",
+	        },
+		{
+	    "name": "Types of Lists in HTML",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/types-of-lists-in-html-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-	"name": "Working of div Tag in HTML",
+                },
+		{
+	    "name": "Working of div Tag in HTML",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/working-of-div-tag-in-html-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-        "name": "Embedding through iframe Tag",
+	        },
+		{
+            "name": "Embedding through iframe Tag",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/embedding-through-iframe-tag-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	},{
-        "name": "Creating Webpage Layout in HTML",
+	        },
+		{
+            "name": "Creating Webpage Layout in HTML",
             "short-name": "Introduction-to-HTML",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/creating-web-page-layout-in-html-iitd",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
-	}  
+	        }  
     ],
     "targetAudience": {
         "UG": ["B. Tech./ B.E in Computer Science Engineering"],

@@ -1,0 +1,33 @@
+{
+    "broadArea": {
+        "name": "Computer Science and Engineering",
+        "link": "http://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    },
+    "lab": "HTML",
+    "deployLab":true,
+    "phase": 3,
+    "collegeName": "IITD",
+    "baseUrl": "http://html-iitd.vlabs.ac.in",
+    "introduction": "Virtualization will allow the students to feel the environment which she/he will get in the real laboratories. In the case where real laboratories are not available or accessible to the students, it will cater students the online-version of the facilities available in the former. With the help of virtualization, the components which are unavailable due to factors like cost, geographic, demographic, etc. can be made virtually available so that students can get the second-best experience of learning how to use and handle the component/equipment. The main intention of virtualization is to enable students to learn the practical concepts more efficiently with the motive of enhancing their competency level.",
+    "experiments": [
+	        {
+            "name": "Introduction to HTML",
+            "short-name": "Introduction-to-HTML",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/introduction-to-html-iitd",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+        }
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Computer Science Engineering"],
+        "PG": [""]
+    },
+    "objective": "- Recall: List editors which can be used to create HTML documents. - Understand: Describe the Structure of HTML document. - Apply: Identity different Tags are given in HTML. - Analyze: Compare the various HTML Tags.",
+    "courseAlignment": {
+        "description": "course are listed here:",
+        "universities": ["National Institute of Technology Tiruchirappalli Tamil Nadu",
+			 "Savitribai Phule Pune University Maharashtra",
+			"Rajiv Gandhi Technical University Madhya Pradesh"]
+    }
+}

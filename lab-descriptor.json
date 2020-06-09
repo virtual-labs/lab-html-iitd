@@ -95,10 +95,10 @@
         "UG": ["B. Tech./ B.E in Computer Science Engineering"],
         "PG": [""]
     },
-    "objective": "- Recall: List editors which can be used to create HTML documents.", 
+    "objective": ["- Recall: List editors which can be used to create HTML documents.", 
     		 "- Understand: Describe the Structure of HTML document.",
 		 "- Apply: Identity different Tags are given in HTML.", 
-		 "- Analyze: Compare the various HTML Tags.",
+		 "- Analyze: Compare the various HTML Tags."],
     "courseAlignment": {
         "description": "course are listed here:",
         "universities": ["National Institute of Technology Tiruchirappalli Tamil Nadu",

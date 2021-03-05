@@ -1,108 +1,150 @@
 {
-    "broadArea": {
-        "name": "Computer Science and Engineering",
-        "link": "http://www.vlab.co.in/broad-area-computer-science-and-engineering"
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "http://www.vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+  "lab": "Basics of HTML",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "IITD",
+  "baseUrl": "html-iitd.vlabs.ac.in",
+  "introduction": "Welcome to HTML virtual lab. Virtualization will allow the students to feel the environment which she/he will get in the real laboratories. In the case where real laboratories are not available or accessible to the students, it will cater students the online-version of the facilities available in the former. With the help of virtualization, the components which are unavailable due to factors like cost, geographic, demographic, etc. can be made virtually available so that students can get the second-best experience of learning how to use and handle the component/equipment. The main intention of virtualization is to enable students to learn the practical concepts more efficiently with the motive of enhancing their competency level.",
+  "experiments": [
+    {
+      "name": "Introduction to HTML",
+      "short-name": "introduction-to-html",
+      "repo": "https://github.com/virtual-labs/exp-introduction-to-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "lab": "Basics of HTML",
-    "deployLab":true,
-    "phase": 3,
-    "collegeName": "IITD",
-    "baseUrl": "http://html-iitd.vlabs.ac.in",
-    "introduction": "Virtualization will allow the students to feel the environment which she/he will get in the real laboratories. In the case where real laboratories are not available or accessible to the students, it will cater students the online-version of the facilities available in the former. With the help of virtualization, the components which are unavailable due to factors like cost, geographic, demographic, etc. can be made virtually available so that students can get the second-best experience of learning how to use and handle the component/equipment. The main intention of virtualization is to enable students to learn the practical concepts more efficiently with the motive of enhancing their competency level.",
-    "experiments": [
-	        {
-            "name": "Introduction to HTML",
-            "short-name": "introduction-to-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/introduction-to-html-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{	
-	    "name": "Applying Attributes in HTML Tags",
-            "short-name": "html-tags",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/applying-attributes-in-html-tags-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy":true
-	        },
-		{
-	    "name": "Inserting images through img tags",
-            "short-name": "img-tags-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/inserting-images-through-img-tags-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Using Anchor Tags for Hyperlinks",
-            "short-name": "anchor-tags-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/using-anchor-tags-for-hyperlinks-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "How marquee Tags work in HTML",
-            "short-name": "marquee-tags-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/marquee-tag-works-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Creating Tables in HTML",
-            "short-name": "tables-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/creating-tables-in-html-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Types of Lists in HTML",
-            "short-name": "lists-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/types-of-lists-in-html-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-		{
-	    "name": "Working of div Tag in HTML",
-            "short-name": "div-tag-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/working-of-div-tag-in-html-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-            "name": "Embedding through iframe Tag",
-            "short-name": "iframe-tag-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/embedding-through-iframe-tag-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-            "name": "Creating Webpage Layout in HTML",
-            "short-name": "webpage-layout-in-html",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/basics-of-html-iitd/creating-web-page-layout-in-html-iitd",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        }  
-    ],
-    "targetAudience": {
-        "UG": ["B. Tech./ B.E in Computer Science Engineering"],
-        "PG": [""]
+    {
+      "name": "Applying Attributes in HTML Tags",
+      "short-name": "html-tags",
+      "repo": "https://github.com/virtual-labs/exp-html-tags-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "objective": ["- Recall: List editors which can be used to create HTML documents.", 
-    		 "- Understand: Describe the Structure of HTML document.",
-		 "- Apply: Identity different Tags are given in HTML.", 
-		 "- Analyze: Compare the various HTML Tags."],
-    "courseAlignment": {
-        "description": "course are listed here:",
-        "universities": ["National Institute of Technology Tiruchirappalli Tamil Nadu",
-			 "Savitribai Phule Pune University Maharashtra",
-			"Rajiv Gandhi Technical University Madhya Pradesh"]
+    {
+      "name": "Inserting images through img tags",
+      "short-name": "img-tags-in-html",
+      "repo": "https://github.com/virtual-labs/exp-img-tags-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Using Anchor Tags for Hyperlinks",
+      "short-name": "anchor-tags-in-html",
+      "repo": "https://github.com/virtual-labs/exp-anchor-tags-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "How marquee Tags work in HTML",
+      "short-name": "marquee-tags-in-html",
+      "repo": "https://github.com/virtual-labs/exp-marquee-tags-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Creating Tables in HTML",
+      "short-name": "tables-in-html",
+      "repo": "https://github.com/virtual-labs/exp-tables-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Types of Lists in HTML",
+      "short-name": "lists-in-html",
+      "repo": "https://github.com/virtual-labs/exp-lists-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Working of div Tag in HTML",
+      "short-name": "div-tag-in-html",
+      "repo": "https://github.com/virtual-labs/exp-div-tag-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Embedding through iframe Tag",
+      "short-name": "iframe-tag-in-html",
+      "repo": "https://github.com/virtual-labs/exp-iframe-tag-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Creating Webpage Layout in HTML",
+      "short-name": "webpage-layout-in-html",
+      "repo": "https://github.com/virtual-labs/exp-webpage-layout-in-html-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Computer Science Engineering"],
+    "PG": ["MS/Ph. D. Beginners in Computer Science Engineering"]
+  },
+  "objective": "1. Recall: List editors which can be used to create HTML documents.<br/>2. Understand: Describe the Structure of HTML document.<br/>3. Apply: Identity different Tags are given in HTML.<br/>4. Analyze: Compare the various HTML Tags.",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the HTML course of various universities to considerable extent.",
+    "universities": [
+      "National Institute of Technology Tiruchirappalli Tamil Nadu",
+      "Savitribai Phule Pune University Maharashtra",
+      "Rajiv Gandhi Technical University Madhya Pradesh"
+    ]
+  },
+  "version": "v1.0.6",
+  "exp_name": "Creating Webpage Layout in HTML",
+  "exp_short_name": "webpage-layout-in-html",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }

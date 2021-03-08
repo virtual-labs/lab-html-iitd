@@ -82,8 +82,8 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Computer Science Engineering"],
-    "PG": ["MS/Ph. D. Beginners in Computer Science Engineering"]
+    "UG": ["Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"],
+    "PG": ["Post Graduate students of M.E./M.Tech./M.C.A./M.Sc.(CS/IT) <br/> Research Scholars of CS/IT faculty of various institutes and universities."]
   },
   "objective": "Objective of Basics of HTML Virtual Lab is to enable student to understand and implement various concepts of Hyper Text Markup Language.<br/> After performing the experiments in the lab students should be able to:<br/> <br/> 1. List editors which can be used to create HTML documents.<br/>2. Describe the Structure of HTML document.<br/>3. Identity different Tags are given in HTML.<br/>4. Compare the various HTML Tags.",
   "courseAlignment": {

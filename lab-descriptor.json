@@ -8,7 +8,7 @@
   "phase": 3,
   "collegeName": "IITD",
   "baseUrl": "html-iitd.vlabs.ac.in",
-  "introduction": "Welcome to HTML virtual lab. Virtualization will allow the students to feel the environment which she/he will get in the real laboratories. In the case where real laboratories are not available or accessible to the students, it will cater students the online-version of the facilities available in the former. With the help of virtualization, the components which are unavailable due to factors like cost, geographic, demographic, etc. can be made virtually available so that students can get the second-best experience of learning how to use and handle the component/equipment. The main intention of virtualization is to enable students to learn the practical concepts more efficiently with the motive of enhancing their competency level.",
+  "introduction": "Welcome to Basics of HTML Virtual Lab <br/>Hypertext Markup Language (HTML) is the standard  markup language  for documents designed to be displayed in a  web browser .<br/> Web browsers  receive HTML documents from a  web server  or from local storage and  render  the documents into multimedia web pages. HTML describes the structure of a  web page   semantically  and originally included cues for the appearance of the document.<br/> HTML elements  are the building blocks of HTML pages.HTML provides a means to create  structured documents  by denoting structural  semantics  for text such as headings, paragraphs, lists,  links , quotes and other items. HTML elements are delineated by tags, written using  angle brackets .<br/> HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a must to learn language for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain",
   "experiments": [
     {
       "name": "Introduction to HTML",
@@ -85,7 +85,7 @@
     "UG": ["B. Tech./ B.E in Computer Science Engineering"],
     "PG": ["MS/Ph. D. Beginners in Computer Science Engineering"]
   },
-  "objective": "1. Recall: List editors which can be used to create HTML documents.<br/>2. Understand: Describe the Structure of HTML document.<br/>3. Apply: Identity different Tags are given in HTML.<br/>4. Analyze: Compare the various HTML Tags.",
+  "objective": "Objective of Basics of HTML Virtual Lab is to enable student to understand and implement various concepts of Hyper Text Markup Language.<br/> After performing the experiments in the lab students should be able to:<br/> <br/> 1. List editors which can be used to create HTML documents.<br/>2. Describe the Structure of HTML document.<br/>3. Identity different Tags are given in HTML.<br/>4. Compare the various HTML Tags.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the HTML course of various universities to considerable extent.",
     "universities": [

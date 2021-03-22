@@ -56,7 +56,7 @@
       "name": "Types of Lists in HTML",
       "short-name": "lists-in-html",
       "repo": "https://github.com/virtual-labs/exp-lists-in-html-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -97,7 +97,7 @@
       "Rajiv Gandhi Technical University Madhya Pradesh"
     ]
   },
-  "version": "v1.0.8",
+  "version": "v1.0.9",
   "exp_name": "Creating Webpage Layout in HTML",
   "exp_short_name": "webpage-layout-in-html",
   "production": true,

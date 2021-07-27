@@ -14,35 +14,35 @@
       "name": "Introduction to HTML",
       "short-name": "introduction-to-html",
       "repo": "https://github.com/virtual-labs/exp-introduction-to-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Applying Attributes in HTML Tags",
       "short-name": "html-tags",
       "repo": "https://github.com/virtual-labs/exp-html-tags-iitd",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Inserting images through img tags",
       "short-name": "img-tags-in-html",
       "repo": "https://github.com/virtual-labs/exp-img-tags-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Using Anchor Tags for Hyperlinks",
       "short-name": "anchor-tags-in-html",
       "repo": "https://github.com/virtual-labs/exp-anchor-tags-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "How marquee Tags work in HTML",
       "short-name": "marquee-tags-in-html",
       "repo": "https://github.com/virtual-labs/exp-marquee-tags-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -56,28 +56,28 @@
       "name": "Types of Lists in HTML",
       "short-name": "lists-in-html",
       "repo": "https://github.com/virtual-labs/exp-lists-in-html-iitd",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Working of div Tag in HTML",
       "short-name": "div-tag-in-html",
       "repo": "https://github.com/virtual-labs/exp-div-tag-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Embedding through iframe Tag",
       "short-name": "iframe-tag-in-html",
       "repo": "https://github.com/virtual-labs/exp-iframe-tag-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Creating Webpage Layout in HTML",
       "short-name": "webpage-layout-in-html",
       "repo": "https://github.com/virtual-labs/exp-webpage-layout-in-html-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     }
   ],

@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "http://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "http://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code":"CSE"
   },
   "lab": "Basics of HTML",
+  "lab_display_name": "Basics of HTML", 
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITD",

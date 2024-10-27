@@ -5,12 +5,12 @@
     "code": "CSE"
   },
   "lab": "Basics of HTML",
-  "lab_display_name": "Basics of HTML", 
+  "lab_display_name": "Basics of HTML",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITD",
   "baseUrl": "html-iitd.vlabs.ac.in",
-  "introduction": "Welcome to Basics of HTML Virtual Lab <br/><br/> Hypertext Markup Language (HTML) is the standard  markup language  for documents designed to be displayed in a  web browser .<br/><br/> Web browsers  receive HTML documents from a  web server  or from local storage and  render  the documents into multimedia web pages. HTML describes the structure of a  web page   semantically  and originally included cues for the appearance of the document.<br/><br/> HTML elements  are the building blocks of HTML pages.HTML provides a means to create  structured documents  by denoting structural  semantics  for text such as headings, paragraphs, lists,  links , quotes and other items. HTML elements are delineated by tags, written using  angle brackets .<br/><br/> HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a must to learn language for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain",
+  "introduction": "Welcome to Basics of HTML Virtual Lab <br/><br/> Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a  web browser .<br/><br/> Web browsers receive HTML documents from a  web server  or from local storage and  render the documents into multimedia web pages. HTML describes the structure of a  web page   semantically and originally included cues for the appearance of the document.<br/><br/> HTML elements are the building blocks of HTML pages.HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links , quotes and other items. HTML elements are delineated by tags, written using angle brackets .<br/><br/> HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a must to learn language for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain",
   "experiments": [
     {
       "name": "Introduction to HTML",
@@ -84,7 +84,9 @@
     }
   ],
   "targetAudience": {
-    "UG": ["Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"],
+    "UG": [
+      "Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"
+    ],
     "PG": [
       "Post Graduate students of M.E./M.Tech./M.C.A./M.Sc.(CS/IT)",
       " Research Scholars of CS/IT faculty of various institutes and universities."
@@ -150,6 +152,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
